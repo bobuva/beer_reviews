@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Mac OS X directories created by zipfile package
+__MACOSX/
+.DS_Store
